@@ -1,4 +1,4 @@
-![Frontend Developer](https://media-exp1.licdn.com/dms/image/C4D16AQGeNcw9RDs4Zw/profile-displaybackgroundimage-shrink_200_800/0/1654664746608?e=1665014400&v=beta&t=0AQnx2czKRthS6ueuE8Vv70kqzNybZGGQGXkYERaBj0)
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQEhmfeTrvLC8g/profile-displaybackgroundimage-shrink_200_800/0/1663569123207?e=1669248000&v=beta&t=ju_2CaPdUBk91TPrkJoIsw20qsKtyYQ69FCA0Xv9_hg"/>
 ### Hi there 👋, I'm Mirajul Alam Alif
 #### Frontend Developer
 
@@ -15,3 +15,7 @@ Skills:  REACT / JS / HTML / CSS /BOOTSTRAP/TAILWIND/ REACT-ROUTER/REACT-FIREBAS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mirajulalam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mirajul-alam-alif-19025b241//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mdmirajul.alam.7)  
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MirajulAlam&show_icons=true&theme=radical"/>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirajulAlam&layout=compact"/>
