@@ -19,9 +19,9 @@ make the best of my potential and contribute to the organization's growth.
 
 
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=MirajulAlam&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MirajulAlam&show_icons=true&theme=radical"/>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirajulAlam&layout=compact"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirajulAlam&layout=compact"/>
 
 <h3 align="left">Connect with me:</h3>
 
