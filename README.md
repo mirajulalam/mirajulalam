@@ -26,6 +26,15 @@ make the best of my potential and contribute to the organization's growth.
 
 <img alt="mirajulalam :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirajulalam&langs_count=14&theme=blue-green&layout=compact&hide=html">
 
+### Current Month Activity:
+
+<!-- Activity graph -->
+<p align="center">
+<a href="#">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=mirajulalam&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&hide_border=true&area=true" alt="Mirajul Alam monthly coding activity" />
+</a>
+</p>
+
 
 
 <h3 align="center">Connect with me:</h3>
