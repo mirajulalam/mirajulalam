@@ -7,7 +7,7 @@ Hi I'm Mirajul Alam Alif. Seeking a challenging position in a reputed organizati
 where I can learn new skills, expand my knowledge, and leverage my learning.I can
 make the best of my potential and contribute to the organization's growth.
 
-
+#### Bio
 - 🔭 I’m currently working on [iTracker](https://itracker-d0330.web.app/)
 - 🌱 I’m currently learning Typescript 
 - 👯 I’m looking to collaborate on github 
@@ -19,12 +19,16 @@ make the best of my potential and contribute to the organization's growth.
 - ⚡ Fun fact **I'm funny**
 
 
+#### Development Stuffs:
+
+<b>⚡ Github Stats</b>
 
 <img alt="mirajulalam :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MirajulAlam&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
 
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=mirajulalam&theme=blue-green&hide_border=true">
 
 <img alt="mirajulalam :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirajulalam&langs_count=14&theme=blue-green&layout=compact&hide=html">
+
 
 ### Current Month Activity:
 
