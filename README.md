@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQEhmfeTrvLC8g/profile-displaybackgroundimage-shrink_200_800/0/1663569123207?e=1669248000&v=beta&t=ju_2CaPdUBk91TPrkJoIsw20qsKtyYQ69FCA0Xv9_hg"/>
+<img src="https://media-exp1.licdn.com/dms/image/D5616AQHd4Y5dHFB01w/profile-displaybackgroundimage-shrink_350_1400/0/1664774296036?e=1674086400&v=beta&t=D2fbUc4tvrFVJA-qG0Cjw-eG5z308euU21R7ejXCVco"/>
 <h1 align="center">Hi 👋, I'm Mirajul Alam Alif</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
