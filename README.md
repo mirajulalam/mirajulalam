@@ -16,7 +16,7 @@ make the best of my potential and contribute to the organization's growth.
 - 📝 I regularly write articles on [https://web.programming-hero.com/blog](https://web.programming-hero.com/blog)
 - 📫 How to reach me **alifmirajulalam@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1juO8P2rTuYWfVcgjgebezU-roHBzdATe/view?usp=sharing](https://drive.google.com/file/d/1juO8P2rTuYWfVcgjgebezU-roHBzdATe/view?usp=sharing)
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact **I'm so funny**
 
 
 #### Development Stuffs:
